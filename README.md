@@ -2,7 +2,7 @@
 
 ## About
 
-An example for controlling WS2812b RGB leds and led strips with an STM32F103 blue pill board and only STM32 HAL timers without wasting any SPI pins.
+An example for controlling WS2812b RGB leds and led strips with an STM32F103 Blue Pill board and only STM32 HAL timers without wasting any SPI pins.
 
 This is actually really hard.
 There are bunch of overcomplicated or simply non-working examples out there.
