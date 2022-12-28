@@ -50,7 +50,7 @@
 
 // Exported defines ***********************************************************
 // define size of the ws2812b matrice
-#define COL                    ( 18u )    // LED pixel number
+#define COL                    ( 2u )    // LED pixel number
 #define ROW                    ( 1u )     // LED stripe number
 
 // Exported types *************************************************************

@@ -109,12 +109,18 @@ int main(void)
 
 	  	  	  case 0:
 	  	  		  WS2812B_setPixel( 0, 0, 255, 0, 0 );
+	  	  		  WS2812B_setPixel( 0, 1, 0, 255, 0 );
+
 	  		  break;
 	  	  	  case 1:
 	  	  		  WS2812B_setPixel( 0, 0, 0, 255, 0 );
+	  	  		  WS2812B_setPixel( 0, 1, 0, 0, 255 );
+
 	  		  break;
 	  	  	  case 2:
 	  	  		  WS2812B_setPixel( 0, 0, 0, 0, 255 );
+	  	  		  WS2812B_setPixel( 0, 1, 255, 0, 0 );
+
 	  		  break;
 
 	  	  }
