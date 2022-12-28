@@ -7,7 +7,7 @@ An example for controlling WS2812b RGB leds and led strips with an STM32F103 blu
 This is actually really hard.
 There are bunch of overcomplicated or simply non-working examples out there.
 
-**Credit for the ws2812b library actually goes to Nico Korn @(https://github.com/nicokorn/STM32F1XX_WS2812B/).
+**Credit for the WS2812b library actually goes to Nico Korn @(https://github.com/nicokorn/STM32F1XX_WS2812B/).
 You are awesome!**
 
 ## Building
