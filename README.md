@@ -1,13 +1,33 @@
 # stm_ws2812b_hal_controller
 
-Controlling WS2812b RGB leds and led strips with an STM32F103 blue pill board and STM32 HAL.
+## About
 
-This is actually really hard and there a bunch of overcomplicated or simply non-working examples out there.
+An example for controlling WS2812b RGB leds and led strips with an STM32F103 blue pill board and only STM32 HAL timers without wasting any SPI pins.
 
-Credit for this ws2812b library actually goes to Nico Korn @(https://github.com/nicokorn/STM32F1XX_WS2812B/).
+This is actually really hard.
+There are bunch of overcomplicated or simply non-working examples out there.
+
+**Credit for the ws2812b library actually goes to Nico Korn @(https://github.com/nicokorn/STM32F1XX_WS2812B/).
+
 You are awesome!
+**
 
-Simply hook up your led(s) to 3.3v, GND and PA0 and there you go!
+## Building
 
+1. Load the project in STM32CubeIDE.
+
+2. Build the project in debug or release mode.
+
+3. Upload the corresponding ".bin" file to your bule pill development board 
+
+	or 
+	
+   launch debug view with a ST-LINK debug probe attached.
+   
+4. Simply hook up your led(s) to 3.3v, GND and the PA0 pin and there you go!
+
+Yay+
+
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
