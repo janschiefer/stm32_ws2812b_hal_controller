@@ -26,7 +26,7 @@ You are awesome!
    
 4. Simply hook up your led(s) to 3.3v, GND and the PA0 pin and there you go!
 
-Yay+
+Yay!
 
 ## License
 
