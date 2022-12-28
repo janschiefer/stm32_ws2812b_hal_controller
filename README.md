@@ -16,7 +16,7 @@ You are awesome!**
 
 2. Build the project in debug or release mode.
 
-3. Upload the corresponding ".bin" file to your bule pill development board 
+3. Upload the corresponding ".bin" file to your Blue Pill development board 
 
 	or 
 	
@@ -28,7 +28,7 @@ Yay!
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)$
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ## TODO
 
